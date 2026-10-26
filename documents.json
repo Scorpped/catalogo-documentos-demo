@@ -1,0 +1,8 @@
+[
+  {"id":"DOC-001","title":"Guia de boas-vindas","category":"Guias","year":2026,"status":"Publicado","pages":12},
+  {"id":"DOC-002","title":"Planejamento da equipe Aurora","category":"Planejamento","year":2026,"status":"Rascunho","pages":8},
+  {"id":"DOC-003","title":"Relatório de indicadores sintéticos","category":"Relatórios","year":2025,"status":"Publicado","pages":24},
+  {"id":"DOC-004","title":"Manual do catálogo demonstrativo","category":"Guias","year":2026,"status":"Publicado","pages":16},
+  {"id":"DOC-005","title":"Plano de aprendizagem fictício","category":"Planejamento","year":2025,"status":"Revisão","pages":6},
+  {"id":"DOC-006","title":"Resumo trimestral de exemplo","category":"Relatórios","year":2026,"status":"Revisão","pages":10}
+]
